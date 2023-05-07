@@ -26,6 +26,7 @@ Lets start with http:-
 -Lets go for Dirb => dirb <ip with http://>
 -Result = we have many results, but the main is /sitemap/
 then we get good,cool website.
+
  again we brute foce it.
 Then we get /.shh/ file.
 
