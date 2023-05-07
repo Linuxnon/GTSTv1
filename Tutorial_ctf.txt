@@ -1,0 +1,26 @@
+               TUTORIAL
+               
+ FIRST go to https://tryhackme.com/access page and click "Download My configration file"  then your openvpn file downloaded.
+   - go to Downloads => cd /Downloads
+   - sudo openvpn <your_file.ovpn> 
+FINISH you connected to tryhackme openvpn.
+
+After this let's go to the ctf :-
+    the first thing NMAP
+ - nmap <ip>
+80/tcp http  open port
+
+- and let's go to webbrowser and search the given ip address.
+
+then you will get the flag.  
+     
+     
+     ANSWER  = flag{connection_verified} 
+     
+     
+     
+     
+                                                      THANK YOU
+                                                      
+                                                    DEAR LINUX ANON
+                                                    
